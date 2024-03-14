@@ -1,6 +1,14 @@
 # 💫 About Me:
-Hola me llamo Franco Armanasco, tengo 23 años y soy de Santa Fe - Argentina. Mi mundo en programación comenzó cuando conocí C++ empecé a participar en competencias de programación, despues de un tiempo conocí Java y me enamore del lenguaje.
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador de software con sede en Argentina, y me encanta explorar y crear en el mundo de la programación.
+🌱 Actualmente estoy explorando nuevas tecnologías y mejorando mis habilidades en el desarrollo de software.
+💻 Mis inicios en la programación se remontan a mis días de competencias de programación, donde me sumergí en el mundo del lenguaje C++ y participé en eventos como CodeJam.
+☕ Después de eso, me enamoré de Java y me he dedicado al desarrollo de aplicaciones en diversos ámbitos, tanto en la web como en otros.
+🌐 En términos de desarrollo web, tengo experiencia en tecnologías como React, JavaScript, HTML, CSS, Tailwind CSS y Bootstrap.
 
+# ¿Qué puedes esperar de mí?
+🚀 Pasión por el desarrollo de software y la resolución de problemas.
+💡 Un enfoque creativo para encontrar soluciones innovadoras.
+🤝 Una actitud colaborativa y dispuesta a aprender y crecer junto con la comunidad de desarrolladores.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/frannarmanasco) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francoarmanasco) 
