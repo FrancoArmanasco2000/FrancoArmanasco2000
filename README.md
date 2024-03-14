@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Franco Armanasco</h1>
-<h3 align="center">Un desarrollador Java FullStack de Argentina - Santa Fe</h3>
+<h3 align="center">Un desarrollador Java FullStack</h3>
 
 - Todos mi proyectos disponibles aqui [Proximamente](Proximamente)
 
