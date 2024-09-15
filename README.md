@@ -1,12 +1,6 @@
 # 💫 About Me:
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador de software con sede en Argentina, y me encanta explorar y crear en el mundo de la programación.
 
-💻 Mis inicios en la programación se remontan a mis días de competencias de programación, donde me sumergí en el mundo del lenguaje C++ y participé en eventos como CodeJam.
-
-☕ Después de eso, me enamoré de Java y me he dedicado al desarrollo de aplicaciones en diversos ámbitos, tanto en la web como en otros.
-
-🌐 En términos de desarrollo web, tengo experiencia en tecnologías como Angular, React, JavaScript, HTML, CSS, Tailwind CSS y Bootstrap.
-
 # ¿Qué puedes esperar de mí?
 🚀 Pasión por el desarrollo de software y la resolución de problemas.
 💡 Un enfoque creativo para encontrar soluciones innovadoras.
