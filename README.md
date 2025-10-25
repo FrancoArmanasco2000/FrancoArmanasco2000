@@ -76,6 +76,16 @@ Me gusta trabajar con **metodologías ágiles**, CI/CD y mantener una visión in
 
 ---
 
+### 🧪 Testing y QA
+
+<p>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mockito-FFCA28?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Testing-0078D7?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
+</p>
+
+---
+
 ### 🧭 Otros conocimientos
 
 <p>
