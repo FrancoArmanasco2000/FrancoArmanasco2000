@@ -6,7 +6,7 @@
 
 ### 🚀 Sobre mí
 
-Soy un Desarrollador Full Stack especializado en el ecosistema Java (Spring Boot) y Angular. 
+Soy un desarrollador de software especializado en el ecosistema Java (Spring Boot) y Angular. 
 Abarco el ciclo de desarrollo completo: desde la construcción de APIs en el backend y la implementación de interfaces, hasta el despliegue mediante prácticas DevOps. 
 Cuento con experiencia en la modernización de sistemas legacy, optimización de rendimiento y diseño de arquitecturas limpias.
 
