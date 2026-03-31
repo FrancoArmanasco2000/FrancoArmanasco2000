@@ -1,6 +1,6 @@
 <h1 align="center">👋 ¡Hola! Soy Franco Armanasco</h1>
 
-<h3 align="center">💻 Desarrollador Full Stack | Apasionado por la tecnología, la arquitectura de software y la optimización de procesos</h3>
+<h3 align="center">💻 Software Developer</h3>
 
 ---
 
